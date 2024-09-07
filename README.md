@@ -19,12 +19,12 @@ MySQL instalado e em execução
 # Como Executar o Projeto
 
 # Clone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/EduardoCardosoAgostinetti/CRUD_WITH_MYSQL
 
 Navegue até o diretório do projeto e 
 
 # Instale as dependências:
-npm install
+npm install node express mysql2
 
 # Inicie o servidor:
 npm start
